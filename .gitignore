@@ -8,8 +8,8 @@ blob-report/
 
 # Environment files
 .env
-.env.*
-!.env.example
+.env
+!.env
 
 # IDE/editor files
 .idea/
